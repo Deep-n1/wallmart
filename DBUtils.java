@@ -1,4 +1,5 @@
-"Welcome to java"
+"new jave insrted
+""Welcome to java"
 ""New java home""
 dding this lin
 welcome
